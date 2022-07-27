@@ -2,7 +2,7 @@
 
 - 🔭 Estou trabalhando com back-end
 - 🌱 Estudando python
-- 😄 Pronomes: Ele/Dele
+
 
 <div align="center">
   <a href="https://github.com/claytonbentes">
