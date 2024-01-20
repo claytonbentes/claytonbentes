@@ -1,7 +1,7 @@
 ### Olá, eu sou o Clayton Bentes 👋
 
 - 🔭 Estou trabalhando com back-end
-- 🌱 Estudando C#
+- 🌱 Estudando Python
 
 
 <div align="center">
