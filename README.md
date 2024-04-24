@@ -1,7 +1,10 @@
 ### Olá, eu sou o Clayton Bentes 👋
 
-- 🔭 Estou trabalhando com back-end
-- 🌱 Estudando Python
+-  Programador back-end
+-  Estudando Python/Front-end
+-  Em busca de virar fullstack
+
+
 
 
 <div align="center">
