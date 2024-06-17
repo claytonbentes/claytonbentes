@@ -1,8 +1,7 @@
 ### Olá, eu sou o Clayton Bentes 👋
 
 -  Programador back-end
--  Estudando Python/Front-end
--  Em busca de virar fullstack
+-  Estudando Python/ Inteligência Artificial/ Java
 
 
 
