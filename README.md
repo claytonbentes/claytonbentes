@@ -1,7 +1,7 @@
 ### Olá, eu sou o Clayton Bentes 👋
 
 -  Programador back-end
--  Estudando Python/Inteligência Artificial/Java
+-  Estudando Python/Java
 
 
 
